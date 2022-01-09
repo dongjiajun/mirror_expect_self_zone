@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MirrorYou.iml" filepath="$PROJECT_DIR$/MirrorYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mirror_expect_self_zone.iml" filepath="$PROJECT_DIR$/.idea/mirror_expect_self_zone.iml" />
     </modules>
   </component>
 </project>
